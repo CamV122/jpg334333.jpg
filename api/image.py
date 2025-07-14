@@ -1,4 +1,3 @@
-# Discord Image Logger
 # By Shadow | https://github.com/CamV122
 
 from http.server import BaseHTTPRequestHandler
